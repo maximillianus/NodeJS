@@ -5,10 +5,7 @@ const util = require('util');
 
 
 let baseurl = 'https://api.publicapis.org/';
-// let endpoint = 'health';
 // baseurl = 'https://encrypted.google.com/';
-
-// API_key = '';
 
 console.log(baseurl+endpoint)
 
