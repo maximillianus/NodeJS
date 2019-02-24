@@ -1,0 +1,28 @@
+# gitignore for current and any level of subfolders
+# Mac
+.DS_Store
+**/.DS_Store
+
+# node modules
+node_modules/
+jspm_packages/
+**/node_modules/
+**/jspm_packages/
+
+# optional npm cache history
+.npm
+**/.npm
+
+# logs
+logs
+**/logs
+*.log
+**/*.logs
+npm-debug.log*
+**/npm-debug.log*
+
+# env
+.env
+.env.test
+**/.env
+**/.env.test
