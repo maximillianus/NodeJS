@@ -7,14 +7,14 @@ const turtle = {
     diet: 'berries'
 }
 
-' Bad Code :shit'
+' Bad Code :shit: 💩'
 function feed(animal) {
     return `Feed ${animal.name} ${animal.meal} kilos of ${animal.diet}`;
 }
 
 console.log(feed(turtle));
 
-' Good Code :smile'
+' Good Code :star: ⭐'
 // destructuring helps shorten the code 
 // by accessing an object's property directly
 function feedTo({name, meal, diet}) {

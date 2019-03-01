@@ -2,10 +2,10 @@ const foo = {name: 'Tom', age:30, nervous:false}
 const bar = {name: 'Dick', age:33, nervous:false}
 const baz = {name: 'Harry', age:35, nervous:true}
 
-'Bad Code :shit'
+'Bad Code :shit: 💩'
 console.log(foo);
 
-'Good Code :smile'
+'Good Code :star: ⭐'
 
 // styled console.log
 console.log('%c My Friends', 'color: orange')   // works in browser's console 

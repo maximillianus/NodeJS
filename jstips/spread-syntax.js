@@ -3,7 +3,7 @@
 const pikachu = {name: 'Pikachu'};
 const stats = {hp: 40, attack: 60, defense: 45};
 
-'Bad Code :shit'
+'Bad Code :shit: 💩'
 
 // simply redefine everything
 // bad because lengthy, verbose, and modifying the object property itself
@@ -17,7 +17,7 @@ pikachu['defense'] = stats.defense;
 const lvl0 = Object.assign(pikachu ,stats);
 const lvl1 = Object.assign(pikachu ,{hp: 45});
 
-'Good Code :smile'
+'Good Code :star: ⭐'
 
 // new object = { ...object1, ...object2}
 // new object = { ...object, ...newProperty}

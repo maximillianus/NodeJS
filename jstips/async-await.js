@@ -26,7 +26,7 @@ const sumRandomAsyncNums = () => {
         })
 }
 
-'Good Promise code :star: ⭐️'
+'Good Promise code :star: ⭐'
 
 const sumRandomAsyncNumsBetter = async() => {
     const first = await random();

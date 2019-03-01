@@ -5,11 +5,11 @@ const horse = {
     age: 7
 }
 
-' Bad Code :shit'
+' Bad Code :shit: 💩'
 let bio = horse.name + 'is a' + horse.size;
 
 
-' Good Code :shit'
+' Good Code :star: ⭐'
 const {name, size, skills} = horse;
 bio = `${name} is a ${size} skilled in ${skills.join(' & ')}`;
 
